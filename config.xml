@@ -16,5 +16,7 @@
   <author href="http://www.thomaskwyatt.com" email="thomas.wyatt.94@gmail.com">
       Thomas K. Wyatt
   </author>
+  
+  <icon src="icon.png" />
 
 </widget>
